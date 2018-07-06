@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DefaultAssociations>
+  <Association Identifier=".acrobatsecuritysettings" ProgId="AcroExch.acrobatsecuritysettings" ApplicationName="Adobe Reader" />
+  <Association Identifier=".fdf" ProgId="AcroExch.FDFDoc" ApplicationName="Adobe Reader" />
+  <Association Identifier=".oxps" ProgId="Windows.XPSReachViewer" ApplicationName="XPS Viewer" />
+  <Association Identifier=".pdf" ProgId="AcroExch.Document.11" ApplicationName="Adobe Reader" />
+  <Association Identifier=".pdfxml" ProgId="AcroExch.pdfxml" ApplicationName="Adobe Reader" />
+  <Association Identifier=".pdx" ProgId="PDXFileType" ApplicationName="Adobe Reader" />
+  <Association Identifier=".xdp" ProgId="AcroExch.XDPDoc" ApplicationName="Adobe Reader" />
+  <Association Identifier=".xfdf" ProgId="AcroExch.XFDFDoc" ApplicationName="Adobe Reader" />
+  <Association Identifier="acrobat" ProgId="acrobat" ApplicationName="Adobe Reader" />
+  <Association Identifier="http" ProgId="IE.HTTP" ApplicationName="Internet Explorer" />
+  <Association Identifier="https" ProgId="IE.HTTPS" ApplicationName="Internet Explorer" />
+</DefaultAssociations>
