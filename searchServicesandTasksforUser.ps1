@@ -2,7 +2,7 @@
 #create a servers.txt for all the servers you want to query
 $Servers = Get-Content servers.txt
 #add * infront and behind username for wildcard
-$user = "*huonit*"
+$user = "*administrator*"
 
 $findings = foreach ($computername in $Servers){
 
